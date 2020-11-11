@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 <h4>I'm Leslie Crunkilton, a Software Engineer who is passionate about crafting creative and concise solutions to problems. I enjoy working on both the stable structure of the backend, and the dynamic and interactive front-end. My background in art and music gives me the creative edge and flexibility that shows through my thoughtful and well-composed solutions.</h4>
 
 #### 🔭 I am currently looking for new opportunities. Let's talk! lcrunkilton@gmail.com
