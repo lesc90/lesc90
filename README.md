@@ -1,9 +1,13 @@
 # Hi there 👋
 <h4>I'm Leslie Crunkilton, a Software Engineer who is passionate about crafting creative and concise solutions to problems. I enjoy working on both the stable structure of the backend, and the dynamic and interactive front-end. My background in art and music gives me the creative edge and flexibility that shows through my thoughtful and well-composed solutions.</h4>
 
+#### 🔭 I am currently looking for new opportunities.
+
 ## Get in touch
 [![Linkedin Badge](https://img.shields.io/badge/-lesliecrunkilton-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leslie-crunkilton/)](https://www.linkedin.com/in/leslie-crunkilton/)
 [![Gmail Badge](https://img.shields.io/badge/-lcrunkilton@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lcrunkilton@gmail.com)](mailto:lcrunkilton@gmail.com)
+
+## Tech Stack
 
 #### Front End
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
