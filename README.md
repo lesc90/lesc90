@@ -7,9 +7,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-lesliecrunkilton-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leslie-crunkilton/)](https://www.linkedin.com/in/leslie-crunkilton/)
 [![Gmail Badge](https://img.shields.io/badge/-lcrunkilton@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lcrunkilton@gmail.com)](mailto:lcrunkilton@gmail.com)
 
-## Tech Stack
+## I work with:
 
-#### Front End
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
 ![React](https://img.shields.io/badge/-React-fff?&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-fff?&logo=Redux&logoColor=000)
@@ -19,13 +18,11 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?&logo=bootstrap&logoColor=000)
 ![Material-UI](https://img.shields.io/badge/-MaterialUI-fff?&logo=material-ui&logoColor=000)
 
-#### Back End
 ![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-fff?)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-fff?logo=Mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-fff?logo=mysql)
 
-#### Developer Tools
 ![Git](https://img.shields.io/badge/-Git-fff?logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-fff?logo=github&logoColor=000)
 ![AWS](https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&logoColor=232F3E)
@@ -34,7 +31,7 @@
 ![npm](https://img.shields.io/badge/-npm-fff?logo=npm)
 
 
-**Github Stats:**
+## GitHub Stats:
 
 <p align="left">
   
